@@ -13,3 +13,5 @@ Once you download the script and have your mobile phone paired with your RPi you
 ```
 nohup ./controlrelay.sh &
 ```
+
+This will run the script on background.
