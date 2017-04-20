@@ -1,5 +1,5 @@
 #!/bin/bash
-# Checks for presence of device and speaks and controls a relay module attached via GPIO
+# Checks for presence of device and controls a relay module attached via GPIO
 
 while true
 do
